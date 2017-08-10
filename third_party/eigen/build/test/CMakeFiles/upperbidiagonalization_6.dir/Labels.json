@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/captcha/HoldonBeginner/Sft/Github/eigen/test/upperbidiagonalization.cpp"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"BuildOfficial"
+		],
+		"name" : "upperbidiagonalization_6"
+	}
+}
